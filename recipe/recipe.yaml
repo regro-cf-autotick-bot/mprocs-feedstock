@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.9.6"
+  version: "0.10.3"
 
 package:
   name: mprocs
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://github.com/pvolok/mprocs/archive/v${{ version }}.tar.gz
-  sha256: 294fa02bfec7c73bc29448c55497ac46deda8b82bec259e492c51cfb67330c2d
+  sha256: 175467fb30195c084df4bd38bf2000fad80f7e03b1e3488c29e3b114f3587ca9
 
 build:
   number: 0
